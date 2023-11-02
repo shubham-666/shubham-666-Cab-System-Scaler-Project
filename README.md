@@ -1,4 +1,4 @@
-# Cab Service(Shortest path/time detection dijkstra algorithm)
+# CabService(Shortest path/time detection dijkstra algorithm)
 
 <p>
 <img src="https://img.shields.io/badge/ReactJS-blue?logo=react"
