@@ -7,7 +7,8 @@
 <img src="https://img.shields.io/badge/DataBase-MongoDB-lightgreen?logo=mongoDB">
 
 </p>
-# Hosting
+
+[**Hosting**]
 **Varcel frontend:** 
 **Backend use render**
 
