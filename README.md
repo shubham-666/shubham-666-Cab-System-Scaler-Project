@@ -41,7 +41,7 @@ We're committed to making your cab booking experience convenient, efficient, and
 
 ## clone or download
 ```terminal
-$ git clone https://github.com/rakshit-2/scaler_assignment.git
+$ git clone 
 $ cd client(ReactJs),cd server(NodeJs)
 $ yarn # or npm i
 ```
