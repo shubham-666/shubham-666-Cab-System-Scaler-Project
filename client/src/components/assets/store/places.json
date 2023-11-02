@@ -1,0 +1,26 @@
+[
+    {
+        "id":0,
+        "label":"Allahabad"
+    },
+    {
+        "id":1,
+        "label":"Bhopal"
+    },
+    {
+        "id":2,
+        "label":"Chhattisgarh"
+    },
+    {
+        "id":3,
+        "label":"Dhanbad"
+    },
+    {
+        "id":4,
+        "label":"East-UP"
+    },
+    {
+        "id":5,
+        "label":"Faridabad"
+    }
+]

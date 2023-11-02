@@ -1,0 +1,18 @@
+{
+    "heading":"Book Cab",
+    "email":{
+        "label":"Email",
+        "placeholder":"abc@gmail.com",
+        "type":"email"
+    },
+    "source":{
+        "label":"From where Location",
+        "placeholder":" Allahabad Mall Station Gate 1, Chd",
+        "type":"text"
+    },
+    "dest":{
+        "label":"To Location",
+        "placeholder":"Sector 5, Gongotri Nagar Complex",
+        "type":"text"
+    }
+}
