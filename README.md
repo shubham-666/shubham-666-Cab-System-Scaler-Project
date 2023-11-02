@@ -7,8 +7,8 @@
 <img src="https://img.shields.io/badge/DataBase-MongoDB-lightgreen?logo=mongoDB">
 
 </p>
-
-**Varcel Hosting:**
+# Hosting
+**Varcel frontend:** 
 **Backend use render**
 
 Click here for Live-[Demo](https://shubham-666-cab-system-scaler-project-gxkjvb34d-shubham-666.vercel.app/)
