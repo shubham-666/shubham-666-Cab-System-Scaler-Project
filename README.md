@@ -94,30 +94,4 @@ react-router-dom: ^4.2.2 | mongoose: ^7.0.3
 axios: ^1.3.5 | 
 @mui/material ^5.12.1 |
 
-## Screenshots of this project
 
-### User visit Landing page
-![ss1](https://user-images.githubusercontent.com/86184006/232975942-8135ec2d-3772-43d1-86ca-e6664aafdd1b.png)
-
-### User visit Cab Booking
-![ss2](https://user-images.githubusercontent.com/86184006/232976092-5e9d64ee-476d-41d8-a6a4-d540d58d410e.png)
-
-
-### Responsive Web Design
-
-![ss5](https://user-images.githubusercontent.com/86184006/232976182-c2cf7033-efe0-4006-acba-b133473b1979.png)
-![ss7](https://user-images.githubusercontent.com/86184006/232976684-965ffa55-254e-42e1-b04a-b50a8c431d24.png)
-
-
-
-
-## Standard
-
-[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
-
-## BUGs or comments
-
-[Create new Issues](https://github.com/rakshit-2/scaler_assignment.git) (preferred)
-
-Email Me: rakshit4013@gmail.com (welcome, say hi)
-# shubham-666-Cab-System-Scaler-Project
