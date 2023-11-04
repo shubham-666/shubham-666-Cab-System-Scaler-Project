@@ -58,7 +58,7 @@ $ npm run start // this will run the files in docs, this behavior is exactly the
 ```
 
 
-## Server-side usage(PORT: https://cab-system-scaler-project-assigment.onrender.com/)
+## Server-side usage(PORT: )
 
 ### Prepare your secret
 
