@@ -96,16 +96,6 @@ axios: ^1.3.5 |
 @mui/material ^5.12.1 |
 
 
-![ss5](https://user-images.githubusercontent.com/86184006/232976182-c2cf7033-efe0-4006-acba-b133473b1979.png)
-![ss7](https://user-images.githubusercontent.com/86184006/232976684-965ffa55-254e-42e1-b04a-b50a8c431d24.png)
 
-
-
-
-## Standard
-
-[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
-
-## BUGs or comments
 
 
