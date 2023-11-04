@@ -39,7 +39,7 @@ const Landing = (props) => {
   function fetchAllUsers()
   {
     setAllUserLoading(true)
-    Axios.get('http://localhost:5000/user/user/get-data',
+    Axios.get('https://cab-system-scaler-project-assigment.onrender.com/user/user/get-data',
     {}
     ).then((res)=>{
       setAllUsers(res.data.data.reverse())
@@ -52,7 +52,7 @@ const Landing = (props) => {
   function fetchCabs()
   {
     setCabDisplayLoading(true)
-    Axios.get('http://localhost:5000/cab/fetch-cab',
+    Axios.get('https://cab-system-scaler-project-assigment.onrender.com/cab/fetch-cab',
     {}
     ).then((res)=>{
       // console.log
@@ -68,7 +68,7 @@ const Landing = (props) => {
   function fetchAllCabDetail()
   {
     setAllCabsLoading(true)
-    Axios.get('http://localhost:5000/allcab/get-all-cab',
+    Axios.get('https://cab-system-scaler-project-assigment.onrender.com/allcab/get-all-cab',
     {}
     ).then((res)=>{
       console.log(res.data)
@@ -162,7 +162,7 @@ const Landing = (props) => {
     // calling the python file
     setCabDisplayLoading(true)
     console.log(NumPlace);
-    Axios.post("http://localhost:5000/path/fetch-shortest-path",
+    Axios.post("https://cab-system-scaler-project-assigment.onrender.com/path/fetch-shortest-path",
     {
       start:NumPlace[sourceLocation],
       dest:NumPlace[destLocation]
@@ -184,7 +184,7 @@ const Landing = (props) => {
       showError(" Check Fair First!!","error")
       return
     }
-    Axios.post("http://localhost:5000/user/update-user-booking",
+    Axios.post("https://cab-system-scaler-project-assigment.onrender.com/",
     {
 
       source:sourceLocation,
