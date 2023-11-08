@@ -12,7 +12,7 @@
  **Frontend-> Varcel**
 **& Backend-> Render**
 
-Click here for Live-[Demo](https://shubham-666-cab-system-scaler-project-gxkjvb34d-shubham-666.vercel.app/)
+Click here for Live-[Demo](https://shubham-666-cab-system-scaler-project.vercel.app/)
 
 Welcome to our Cab Booking App, built using the MERN stack. Our platform provides a seamless and efficient way for users to book cabs, offering various options and pricing structures. With our app, reaching your destination becomes a hassle-free experience, optimized for both time and cost.
 
